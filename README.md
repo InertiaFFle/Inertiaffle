@@ -6,3 +6,5 @@ i do discord bots lol
 - javascript
 - html
 - css
+
+https://replit.com/@waffleZz
