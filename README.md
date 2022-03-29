@@ -6,5 +6,6 @@ i do discord bots lol
 - javascript
 - html
 - css
+- minecraf
 
 https://replit.com/@waffleZz
