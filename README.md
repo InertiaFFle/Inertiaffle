@@ -7,5 +7,3 @@ i do discord bots lol [InertiaFFle#7365]
 - html
 - css
 - minecraf
-
-https://replit.com/@waffleZz
