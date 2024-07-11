@@ -1,9 +1,7 @@
-a very very professional programmer (pro gamer, pro grammar)  
-i can literally hack you rn  
-i do discord bots lol [InertiaFFle#7365]
+## InertiaWaffle
 
-- python
-- javascript
-- html
-- css
-- minecraf
+<img src="https://skillicons.dev/icons?i=py,js,md"/>
+
+<img src="https://skillicons.dev/icons?i=discord,twitter,github"/>
+
+:trollface:
